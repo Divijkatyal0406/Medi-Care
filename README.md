@@ -80,11 +80,9 @@ npm install
 npm start
 ```
 
-## Working Demonstration
+<!-- ## Working Demonstration
 
-![](Readme_requirements/Medi-Care.gif)
-
-(This project is still under development)
+(This project is still under development) -->
 
 ## References
 
