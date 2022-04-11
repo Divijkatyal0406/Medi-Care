@@ -69,7 +69,7 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
 
 ### Clone the repository
 ```bash
-git clone https://github.com/sherwyn11/Medi-Care.git
+git clone https://github.com/Divijkatyal0406/Medi-Care.git
 ```
 
 ### To run React development server
@@ -80,11 +80,6 @@ npm install
 npm start
 ```
 
-### To run Flask server
-```bash
-cd server
-python app.py
-```
 ## Working Demonstration
 
 ![](Readme_requirements/Medi-Care.gif)
@@ -95,11 +90,3 @@ python app.py
 
 <a href="https://www.devteam.space/blog/how-can-blockchain-keep-medical-records-secure/">How Can Blockchain Keep Medical Records Secure?</a>
 
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[MIT License Link](https://github.com/sherwyn11/Medi-Care/blob/master/LICENSE)
-
-<br></br>
-&copy; 2020 Sherwyn D'souza
