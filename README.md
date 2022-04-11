@@ -75,7 +75,6 @@ git clone https://github.com/Divijkatyal0406/Medi-Care.git
 ### To run React development server
 
 ```bash
-cd blockchain
 npm install
 npm start
 ```
